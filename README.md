@@ -30,11 +30,11 @@ Developed a web application designed to revolutionize travel planning by generat
 2. Install the dependencies for both frontend and backend
 3. Set up environment variables by creating a .env file in the backend directory and adding your API keys:
    
-MONGODB_URI=your_mongo_db_uri
-JWT_SECRET=your_jwt_secret
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-WEATHER_API_KEY=your_weather_api_key
-GEMINI_API_KEY=your_gemini_api_key
+   MONGODB_URI=your_mongo_db_uri
+   JWT_SECRET=your_jwt_secret
+   GOOGLE_MAPS_API_KEY=your_google_maps_api_key
+   WEATHER_API_KEY=your_weather_api_key
+   GEMINI_API_KEY=your_gemini_api_key
 
 4. Start both frontend and backend servers:
 5. Open your browser and go to local host.
